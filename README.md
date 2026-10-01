@@ -16,8 +16,8 @@ a partir del dataset `Teen_Mental_Health_Dataset.csv`.
 
 ## 🔗 Links relevantes
 
-- 🌐 **Aplicación desplegada:** `PEGAR_AQUI_EL_LINK_DE_STREAMLIT`
-- 💻 **Repositorio GitHub:** `PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO`
+- 🌐 **Aplicación desplegada:** https://teen-mental-health-eda-2v4jparytpz3btxtztej2n.streamlit.app/
+- 💻 **Repositorio GitHub:** https://github.com/elyficg-ops/teen-mental-health-eda
 
 ## 🎯 Descripción del proyecto
 
@@ -71,8 +71,8 @@ La aplicación se organiza en módulos navegables desde un menú lateral:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   cd TU_REPOSITORIO
+   git clone https://github.com/elyficg-ops/teen-mental-health-eda.git
+   cd teen-mental-health-eda
    ```
 2. (Opcional) Crear y activar un entorno virtual:
    ```bash
